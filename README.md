@@ -1,5 +1,6 @@
 ## Unlimited Scan
 **About**
+
 This mod allows for a nicer scan with a  longer range and unlimited scan items!
 
 Thunderstore link: https://thunderstore.io/c/lethal-company/p/TheSecretDev/Unlimited_Scan/
